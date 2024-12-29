@@ -1,4 +1,4 @@
-@@ -1,19 +1,19 @@
+
 ![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d) <h1 align="center">Hi 👋, I'm Sindhuja S</h1>
 <h3 align="center">A passionate FullStack Developer </h3>
 <img align="right" width="370" height="290" src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif"><h1 align="center">
